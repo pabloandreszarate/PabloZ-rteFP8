@@ -1,0 +1,14 @@
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\bin\Debug\net8.0\ParcialCiclosPabloZárateLópez.exe
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\bin\Debug\net8.0\ParcialCiclosPabloZárateLópez.deps.json
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\bin\Debug\net8.0\ParcialCiclosPabloZárateLópez.runtimeconfig.json
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\bin\Debug\net8.0\ParcialCiclosPabloZárateLópez.dll
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\bin\Debug\net8.0\ParcialCiclosPabloZárateLópez.pdb
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ParcialCiclosPabloZárateLópez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ParcialCiclosPabloZárateLópez.AssemblyInfoInputs.cache
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ParcialCiclosPabloZárateLópez.AssemblyInfo.cs
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ParcialCiclosPabloZárateLópez.csproj.CoreCompileInputs.cache
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ParcialCiclosPabloZárateLópez.dll
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\refint\ParcialCiclosPabloZárateLópez.dll
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ParcialCiclosPabloZárateLópez.pdb
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ParcialCiclosPabloZárateLópez.genruntimeconfig.cache
+C:\Users\B09S113est\source\repos\ParcialCiclosPabloZárateLópez\ParcialCiclosPabloZárateLópez\obj\Debug\net8.0\ref\ParcialCiclosPabloZárateLópez.dll
